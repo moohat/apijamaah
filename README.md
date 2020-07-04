@@ -1,6 +1,7 @@
 # apijamaah
-npm install
-nodemon server
+
+# npm install
+# nodemon server
 
 click link below to get documentation API Jamaah
 
